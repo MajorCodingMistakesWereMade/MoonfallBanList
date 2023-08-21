@@ -1,0 +1,8 @@
+{"banned":[
+  { "userID":0, "BanReason":"Test"},
+]}
+
+
+{"previouslyBanned":[
+  { "userID":0, "BanReason":"Test", "UnbanReason":"Test"},
+]}
