@@ -1,11 +1,11 @@
 {
   "banned":[
-  "user" = 
+  "user" :
     { 
       "userID":3007231423, 
       "BanReason":"Test"
     },
-  "user" = 
+  "user" :
     { 
       "userID":3007231423, 
       "BanReason":"Test"
@@ -17,4 +17,4 @@
       "BanReason":"Test",
       "UnBanReason":"Test"
     },  
-}
+  ]}
