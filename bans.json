@@ -1,8 +1,20 @@
 {
   "banned":[
-  { "userID":3007231423, "BanReason":"Test"},
+  "user" = 
+    { 
+      "userID":3007231423, 
+      "BanReason":"Test"
+    },
+  "user" = 
+    { 
+      "userID":3007231423, 
+      "BanReason":"Test"
+    },  
   ],
   "previouslyBanned":[
-  { "userID":0, "BanReason":"Test", "UnbanReason":"Test"},
-  ]
+    { 
+      "userID":0, 
+      "BanReason":"Test",
+      "UnBanReason":"Test"
+    },  
 }
